@@ -1,2 +1,2 @@
-git is a very good tool
+Git is a distributed version control system.
 git is a free software
